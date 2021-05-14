@@ -1,0 +1,26 @@
+[
+  {
+    "title": "De vilda djurens flykt",
+    "author": "Kalle Pettersson",
+    "pages": 341,
+    "rented": false
+  },
+  {
+    "title": "Facklan",
+    "author": "John Nilsson",
+    "pages": 203,
+    "rented": false
+  },
+  {
+    "title": "Skoldpaddan som rymde",
+    "author": "Per Svensson",
+    "pages": 125,
+    "rented": false
+  },
+  {
+    "title": "Molnen pa himlen",
+    "author": "Peter Holmgren",
+    "pages": 521,
+    "rented": true
+  }
+]
